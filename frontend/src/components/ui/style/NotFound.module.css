@@ -1,0 +1,13 @@
+.notfound {
+    height: 100%;
+    width: 100%;
+    margin: auto;
+}
+
+.notfound h1 {
+    font-size: 4rem;
+}
+
+.notfound h4 {
+    margin: 1rem 0;
+}
